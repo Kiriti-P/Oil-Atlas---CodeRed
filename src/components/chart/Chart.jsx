@@ -2,9 +2,10 @@ import './chart.scss'
  import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 // import api 
-import Api from '/api';
+//import Api from '/api';
 import { useEffect, useState } from 'react'
-
+const axios = require('axios');
+const eiaKey = process.env.EIA_KEY;
 
 
 const data = [
