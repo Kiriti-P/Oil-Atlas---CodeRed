@@ -7,6 +7,7 @@ import Chart from '../../components/chart/Chart'
 import Carousel from 'react-elastic-carousel'
 
 
+
 const Home = () => {
 
   return (
