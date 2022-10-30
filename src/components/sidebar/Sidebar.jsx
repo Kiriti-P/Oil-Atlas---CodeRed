@@ -29,25 +29,7 @@ const Sidebar = () => {
             </li>
             <li>
               <ProductionQuantityLimitsIcon className='icon' />
-              <span>Net Production</span>
-            </li>
-            <li>
-              <QueryStatsIcon className='icon' />
-              <span>Stocks</span>
-            </li>
-            <p className="title">OTHER MENU</p>
-            <li>
-              <LocalShippingIcon className='icon' />
-              <span>Status</span>
-            </li>
-            <p className="title">SERVICES</p>
-            <li>
-              <PsychologyIcon className='icon' />
-              <span>Logs</span>
-            </li>
-            <li>
-              <SettingsIcon className='icon' />
-              <span>Settings</span>
+              <span>Natural Gas</span>
             </li>
           </ul>
         </div>
