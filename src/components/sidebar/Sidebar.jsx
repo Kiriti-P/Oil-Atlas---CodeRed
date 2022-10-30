@@ -1,16 +1,12 @@
 import './sidebar.scss'
 import DashboardIcon from '@mui/icons-material/Dashboard';
-import GroupIcon from '@mui/icons-material/Group';
 import Inventory2Icon from '@mui/icons-material/Inventory2';
 import ProductionQuantityLimitsIcon from '@mui/icons-material/ProductionQuantityLimits';
 import LocalShippingIcon from '@mui/icons-material/LocalShipping';
 import QueryStatsIcon from '@mui/icons-material/QueryStats';
 import NotificationsIcon from '@mui/icons-material/Notifications';
-import HealthAndSafetyIcon from '@mui/icons-material/HealthAndSafety';
 import PsychologyIcon from '@mui/icons-material/Psychology';
 import SettingsIcon from '@mui/icons-material/Settings';
-import PersonIcon from '@mui/icons-material/Person';
-import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 
 const Sidebar = () => {
   return (
@@ -36,12 +32,12 @@ const Sidebar = () => {
               <span>Net Production</span>
             </li>
             <li>
-              <LocalShippingIcon className='icon' />
+              <QueryStatsIcon className='icon' />
               <span>Stocks</span>
             </li>
             <p className="title">OTHER MENU</p>
             <li>
-              <QueryStatsIcon className='icon' />
+              <LocalShippingIcon className='icon' />
               <span>Status</span>
             </li>
             <li>

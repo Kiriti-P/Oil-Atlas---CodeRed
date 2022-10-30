@@ -3,7 +3,6 @@ import SearchIcon from '@mui/icons-material/Search';
 import LanguageIcon from '@mui/icons-material/Language';
 import Brightness4Icon from '@mui/icons-material/Brightness4';
 import NotificationsActiveIcon from '@mui/icons-material/NotificationsActive';
-import MessageIcon from '@mui/icons-material/Message';
 
 import React, { useState, useEffect } from 'react';
 

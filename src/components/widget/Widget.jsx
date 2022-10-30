@@ -1,6 +1,5 @@
 import './widget.scss'
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
-import Carousel from 'react-elastic-carousel'
 
 const Widget = ({type}) => {
 

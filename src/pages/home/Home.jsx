@@ -7,16 +7,15 @@ import Chart from '../../components/chart/Chart'
 import Carousel from 'react-elastic-carousel'
 
 
-
 const Home = () => {
 
   return (
     <div className="home">
         <Sidebar />
-        <div className="homeContainer">
+        <div className="homeContainer" >
           <Navbar />
-          <div className='widgets'>
-            <Carousel enableAutoPlay autoPlaySpeed={3500} >
+          <div className='widgets' >
+            <Carousel enableAutoPlay autoPlaySpeed={5000}>
               <Widget type='users' />
               <Widget type='orders' />
               <Widget type='earnings' />
