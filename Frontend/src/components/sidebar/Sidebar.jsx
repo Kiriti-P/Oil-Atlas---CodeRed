@@ -2,11 +2,6 @@ import './sidebar.scss'
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import Inventory2Icon from '@mui/icons-material/Inventory2';
 import ProductionQuantityLimitsIcon from '@mui/icons-material/ProductionQuantityLimits';
-import LocalShippingIcon from '@mui/icons-material/LocalShipping';
-import QueryStatsIcon from '@mui/icons-material/QueryStats';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import PsychologyIcon from '@mui/icons-material/Psychology';
-import SettingsIcon from '@mui/icons-material/Settings';
 
 
 // fuk u reactb

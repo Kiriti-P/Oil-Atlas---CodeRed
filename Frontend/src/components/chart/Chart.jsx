@@ -10,7 +10,7 @@ var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
 let crudeData = [];
 for (let i = 0; i < data["Data 1"].length; i++) {
-	if (i%20 === 0) {
+	if (i%5 === 0) {
 		crudeData.push({
 			label: data["Data 1"].at(i).Date,
 			y: data["Data 1"].at(i)['U.S. Field Production of Crude Oil (Thousand Barrels)']
@@ -34,7 +34,8 @@ const Chart = () => {
 		axisX: {
 			title: "Year",
 			//prefix: "W",
-			//interval: 2
+			interval: 5,
+			labelAngle: 90
 		},
 		
 		data: [{

@@ -32,7 +32,7 @@ const Home = () => {
           
 
           <div className="charts">
-            <Feature />
+            {/* <Feature /> */}
             <Chart />
           </div>
         </div>
