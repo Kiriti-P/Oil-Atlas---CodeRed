@@ -8,6 +8,9 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 import PsychologyIcon from '@mui/icons-material/Psychology';
 import SettingsIcon from '@mui/icons-material/Settings';
 
+
+// fuk u reactb
+
 const Sidebar = () => {
   return (
     <div className='sidebar'>
