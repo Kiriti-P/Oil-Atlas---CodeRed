@@ -16,6 +16,17 @@
 #Initialising the services to be containerized
 version: "3.9"
 services:
+
+  oilatlassfe:
+      image: node:16-bullseye
+      build:
+        dockerfile: ./Frontend/Dockerfile
+      #ENV variables requires as per instructions
+      #
+        # - DJLABBOOK_PORT=3000
+        # - DJLABBOOK_BACKEND_PREFIX=/api
+      ports:
+      - "3000:3000"
   #The axios REST API 
   OilAtlasBE:
     build:
@@ -72,16 +83,7 @@ services:
 #       - traefik.http.routers.proxy.service=api@Internal
 
 #The Labbook service to handle front en
-  oilatlassfe:
-    image: node:16-bullseye
-    build:
-      dockerfile: ./Frontend/Dockerfile
-    #ENV variables requires as per instructions
-    #
-      # - DJLABBOOK_PORT=3000
-      # - DJLABBOOK_BACKEND_PREFIX=/api
-    ports:
-      - "3000:3000"
+  
     #lable for later routing
     # labels:
     #   - traefik.enable=true
