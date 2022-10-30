@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
     <meta charset="utf-8" />
     <script>
       var subjectObject = {
@@ -64,7 +65,8 @@
     <title>Ivandjoh - Admin Panel</title>
   </head>
   <body>
-    <h1>Cascading DropDown Example</h1>
+    <div class="CascadingSheet">
+    <h1>Filter Query</h1>
     <form name="form1" id="form1" action="/action_page.php">
       Subjects:
       <select name="subject" id="subject">
@@ -83,8 +85,10 @@
         <option value="" selected="selected">Please select topic first</option>
       </select>
       <br /><br />
-      <input type="submit" value="Submit" />
+      <input type="submit" value="Submit" id="submitButton"/>
     </form>
+  </div>
+    </body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
   </body>
