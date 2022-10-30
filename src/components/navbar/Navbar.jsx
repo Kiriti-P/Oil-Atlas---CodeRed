@@ -36,10 +36,6 @@ const Navbar = () => {
           <div className={`Navbar ${theme}`}>
             <Brightness4Icon className='icon' onClick={toggleTheme} />
           </div>
-          <div className="item">
-            <NotificationsActiveIcon className='icon' />
-            <div className='counter'>1</div>
-          </div>
         </div>
       </div>
     </div>

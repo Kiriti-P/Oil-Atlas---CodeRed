@@ -1,8 +1,10 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Home from "./pages/home/Home";
-import Single from "./pages/single/Single";
-import New from "./pages/new/New";
+import NetProd from "./pages/NetProd/NetProd";
+import Petrol from "./pages/petrol/petrol";
+import Stocks from"./pages/Stocks/stocks";
+import Status from"./pages/Status/status";
 
 
 function App() {
@@ -12,14 +14,10 @@ function App() {
         <Routes>
           <Route path="/">
             <Route index element={<Home />} />
-            <Route path="users">
-              <Route path=":userId" element={<Single />} />
-              <Route path="new" element={<New />} />
-            </Route>
-            <Route path="products">
-              <Route path=":productId" element={<Single />} />
-              <Route path="new" element={<New />} />
-            </Route>
+            <Route element={<Petrol />} />
+            <Route element={<NetProd />} />
+            <Route element={<Stocks />} />
+            <Route element={<Status />} />
           </Route>
         </Routes>
       </BrowserRouter>

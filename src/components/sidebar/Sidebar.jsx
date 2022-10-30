@@ -40,10 +40,6 @@ const Sidebar = () => {
               <LocalShippingIcon className='icon' />
               <span>Status</span>
             </li>
-            <li>
-              <NotificationsIcon className='icon' />
-              <span>Notifications</span>
-            </li>
             <p className="title">SERVICES</p>
             <li>
               <PsychologyIcon className='icon' />
