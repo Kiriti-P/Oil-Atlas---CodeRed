@@ -1,13 +1,6 @@
 import './chart.scss'
  import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
-// import api 
-//import Api from '/api';
-import { useEffect, useState } from 'react'
-const axios = require('axios');
-const eiaKey = process.env.EIA_KEY;
-
-
 const data = [
   { name: 'January', total: 1200 },
   { name: 'February', total: 3000 },
@@ -23,6 +16,7 @@ const Chart = () => {
   return (
     <div className='chart'>
       <div className="title">Last 6 Months Revenue</div>
+     
         <ResponsiveContainer width="100%" aspect={2/1}>
         <AreaChart width={'100%'} height={250} data={data} margin={{ top: 0, right: 0, left: 0, bottom: 0 }}>
             <defs>
@@ -37,6 +31,8 @@ const Chart = () => {
             <Area type="monotone" dataKey="total" stroke="#8884d8" fillOpacity={1} fill="url(#total)" />     
         </AreaChart>                 
       </ResponsiveContainer>
+
+      
     </div>
   )
 }

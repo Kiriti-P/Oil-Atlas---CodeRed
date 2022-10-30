@@ -28,20 +28,16 @@ const Sidebar = () => {
             </li>
             <p className="title">LISTS MENU</p>
             <li>
-              <GroupIcon className='icon' />
-              <span>Users</span>
-            </li>
-            <li>
               <Inventory2Icon className='icon' />
-              <span>Products</span>
+              <span>Petroleum-Crude</span>
             </li>
             <li>
               <ProductionQuantityLimitsIcon className='icon' />
-              <span>Orders</span>
+              <span>Net Production</span>
             </li>
             <li>
               <LocalShippingIcon className='icon' />
-              <span>Delivery</span>
+              <span>Stocks</span>
             </li>
             <p className="title">OTHER MENU</p>
             <li>
@@ -54,10 +50,6 @@ const Sidebar = () => {
             </li>
             <p className="title">SERVICES</p>
             <li>
-              <HealthAndSafetyIcon className='icon' />
-              <span>System Health</span>
-            </li>
-            <li>
               <PsychologyIcon className='icon' />
               <span>Logs</span>
             </li>
@@ -65,20 +57,7 @@ const Sidebar = () => {
               <SettingsIcon className='icon' />
               <span>Settings</span>
             </li>
-            <p className="title">ACCOUNT</p>
-            <li>
-              <PersonIcon className='icon' />
-              <span>Profile</span>
-            </li>
-            <li>
-              <ExitToAppIcon className='icon' />
-              <span>Logout</span>
-            </li>
           </ul>
-        </div>
-        <div className='bottom'>
-          <div className='colorOptions'></div>
-          <div className='colorOptions'></div>
         </div>
     </div>
   )
