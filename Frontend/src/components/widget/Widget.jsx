@@ -6,67 +6,77 @@ const Widget = ({type}) => {
     let data;
 
     //holder for stock amount per top 10 stocks
-    const amount = Math.floor(Math.random() * 100);
+    const amount = [];
 
     switch (type) {
-        case 'users':
+        case 'one':
             data = {
                 id: 1,
-                title: 'USERS', 
+                title: 'Exxon Mobil Corporation',
+                amount: 110.7, 
             }
             break;
-        case 'orders':
+        case 'two':
             data = {
                 id: 2,
-                title: 'ORDERS',
+                title: 'Chevron Corporation',
+                amount: 179.98,
             }
             break;
-        case 'earnings':
+        case 'three':
             data = {
                 id: 3,
-                title: 'EARNINGS',
+                title: 'Shell plc	',
+                amount: 56.18,
             }
             break;
-        case 'balance':
+        case 'four':
             data = {
                 id: 4,
-                title: 'BALLANCE',
+                title: 'ConocoPhillips',
+                amount: 127.17	,
             }
             break;
-        case 'temp':
+        case 'five':
             data = {
                 id: 5,
-                title: 'Temp',
+                title: 'TotalEnergies SE	',
+                amount: 54.77,
             }
             break;
-        case 'temp2':
+        case 'six':
             data = {
                 id: 6,
-                title: 'Temp2',
+                title: 'Equinor ASA	',
+                amount: 36.81,
             }
             break;
-        case 'temp3':
+        case 'seven':
             data = {
                 id: 6,
-                title: 'Temp3',
+                title: 'BP p.l.c.',
+                amount: 33.15,
             }
             break;
-        case 'temp4':
+        case 'eight':
             data = {
                 id: 6,
-                title: 'Temp4',
+                title: 'Petróleo Brasileiro S.A. - Petrobras',
+                amount: 13.45,
             }
             break;
-        case 'temp5':
+        case 'nine':
             data = {
                 id: 6,
-                title: 'Temp5',
+                title: 'Enbridge Inc.',
+                amount: 39.05,
             }
             break;
-        case 'temp6':
+        case 'ten':
             data = {
                 id: 6,
-                title: 'Temp6',
+                title: 'EOG Resources, Inc.',
+                amount: 133.69,
             }
             break;
         default:
@@ -80,7 +90,7 @@ const Widget = ({type}) => {
             <div className='slider'>
                 <div className='left'>
                     <span className='title'>{data.title}</span>
-                    <span className='counter'><KeyboardArrowUpIcon /> ${amount}</span>
+                    <span className='counter'> ${data.amount}</span>
                 </div>
             </div>
         </div>

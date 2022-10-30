@@ -7,6 +7,7 @@ import Chart from '../../components/chart/Chart'
 import Carousel from 'react-elastic-carousel'
 
 
+
 const Home = () => {
 
   return (
@@ -16,23 +17,23 @@ const Home = () => {
           <Navbar />
           <div className='widgets' >
             <Carousel enableAutoPlay autoPlaySpeed={5000}>
-              <Widget type='users' />
-              <Widget type='orders' />
-              <Widget type='earnings' />
-              <Widget type='balance' />
-              <Widget type='temp' />
-              <Widget type='temp2' />
-              <Widget type='temp3' />
-              <Widget type='temp4' />
-              <Widget type='temp5' />
-              <Widget type='temp6' />
+              <Widget type='one' />
+              <Widget type='two' />
+              <Widget type='three' />
+              <Widget type='four' />
+              <Widget type='five' />
+              <Widget type='six' />
+              <Widget type='seven' />
+              <Widget type='eight' />
+              <Widget type='nine' />
+              <Widget type='ten' />
             </Carousel>
             
           </div>
           
 
           <div className="charts">
-            <Feature />
+            {/* <Feature /> */}
             <Chart />
           </div>
         </div>
