@@ -14,11 +14,11 @@ function App() {
         <Routes>
           <Route path="/">
             <Route index element={<Home />} />
-            <Route element={<Petrol />} />
-            <Route element={<NetProd />} />
-            <Route element={<Stocks />} />
-            <Route element={<Status />} />
           </Route>
+          <Route path='/Petrol' element={<Petrol />} />
+          <Route path="/NetProd" element={<NetProd />} />
+          <Route path='/Stocks' element={<Stocks />} />
+          <Route path='Status' element={<Status />} />
         </Routes>
       </BrowserRouter>
     </div>
