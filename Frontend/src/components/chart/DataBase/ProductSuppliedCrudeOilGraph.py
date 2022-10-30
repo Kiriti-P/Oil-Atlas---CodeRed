@@ -3,11 +3,10 @@ import matplotlib.pyplot as plt
 import mpld3
 import json
 import sys
-import time
 
 
 def graphData():
-    jsonfile = open("./ProducedCrudeData.json", "r")
+    jsonfile = open("ProductSuppliedCrudeData.json", "r")
     jsondata = jsonfile.read()
 
     data_dict = json.loads(jsondata)
@@ -19,15 +18,16 @@ def graphData():
         x.append(i["Date"])
 
     for i in data_dict["Data 1"]:
-        y.append(i["U.S. Field Production of Crude Oil (Thousand Barrels)"])
+        y.append(
+            i["U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)"])
 
     plt.plot(x, y)
     plt.xlabel('Years')
-    plt.ylabel('Oil Produced')
-    plt.title("U.S. Field Production of Crude Oil (Thousand Barrels)")
-    # plt.savefig("ProducedCrude.png")
+    plt.ylabel('Product Supplied')
+    plt.title(
+        "U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)")
+    plt.savefig("ProductSupplied.png")
     # mpld3.show()
-    mpld3.fig_to_html(mpld3)
     jsonfile.close()
 
 
