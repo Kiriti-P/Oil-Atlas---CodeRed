@@ -25,9 +25,9 @@ def graphData():
     plt.xlabel('Years')
     plt.ylabel('Oil Produced')
     plt.title("U.S. Field Production of Crude Oil (Thousand Barrels)")
-    # plt.savefig("ProducedCrude.png")
+    plt.savefig("ProducedCrude.png")
     # mpld3.show()
-    mpld3.fig_to_html(mpld3)
+    # mpld3.fig_to_html(mpld3)
     jsonfile.close()
 
 
