@@ -1,0 +1,94 @@
+
+# docker-compose up
+
+# docker-compose up --build backend
+
+# docker-compose up --build frontend
+
+
+# pytest
+
+# pytest --cov=app --cov-report term-missing
+
+# pytest tests/test_e2e.py
+
+
+#Initialising the services to be containerized
+version: "3.9"
+services:
+  #The axios REST API 
+  OilAtlasBE:
+    build:
+      dockerfile: ./Backend/Dockerfile
+    #ENV variables requires as per instructions, and some additional ones for logging and scalable
+    # environment:
+      # - API_KEY=${API_KEY}
+
+
+      # - PHARUS_PORT=5000
+      # - PHARUS_PREFIX=/
+      # - PHARUS_PRIVATE_KEY
+      # - PHARUS_PUBLIC_KEY
+      # - FLASK_ENV=development # enables logging to console from Flask
+      # - PHARUS_SPEC_PATH=tests/init/test_dynamic_api_spec.yaml # for dynamic api spec
+
+      #creating a volume for caching
+    volumes:
+      - ./Backend:/app
+      # - ./pharus:/opt/conda/lib/python3.8/site-packages/pharus
+    command: npm start
+
+    image: oilatlasbe
+    
+    # image: python:3.9-bullseye
+
+
+# #The Reverse-Proxy to managa HTTP traffic
+#   proxy:
+#     #Image of Traefik
+#     image: traefik:v2.6
+#     command: --providers.docker --log.level=INFO --api.insecure=true
+#     networks:
+#       - proxy
+#       - default
+#     ports:
+#       #http port
+#       - "80:80"
+#       #web ui via --api.insecure=true 
+#       - "8080:8080"
+#     links:
+#       - "pharus"
+#       - "labbook"
+#     volumes:
+#       # So that Traefik can listen to the Docker events
+#       - /var/run/docker.sock:/var/run/docker.sock
+#     #labeling for later to push traffic where needed
+#     labels:
+#       - traefik.enable=true
+#       - traefik.docker.network=proxy
+#       - traefik.http.routers.proxy.entryPoints=web
+#       - traefik.http.routers.proxy.rule=Host('')
+#       - traefik.http.routers.proxy.middlewares=pass-to-api@file
+#       - traefik.http.routers.proxy.service=api@Internal
+
+#The Labbook service to handle front en
+  oilatlassfe:
+    image: node:16-bullseye
+    build:
+      dockerfile: ./Frontend/Dockerfile
+    #ENV variables requires as per instructions
+    #
+      # - DJLABBOOK_PORT=3000
+      # - DJLABBOOK_BACKEND_PREFIX=/api
+    ports:
+      - "3000:3000"
+    #lable for later routing
+    # labels:
+    #   - traefik.enable=true
+    #   - traefik.http.routers.labbook.rule=Host(Localhost)
+    #   - traefik.http.services.labbook.server.port=3000
+    #   - traefik.http.routers.labbook.middlewares=pass-to-api
+
+#The netwrok all these Services will share
+networks:
+  main:
