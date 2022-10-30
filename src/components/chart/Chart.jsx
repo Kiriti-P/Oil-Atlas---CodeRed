@@ -2,8 +2,8 @@ import './chart.scss'
  import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 // import api 
-import Api from '/api';
-import { useEffect, useState } from 'react'
+// import Api from '/api';
+// import { useEffect, useState } from 'react'
 
 
 
