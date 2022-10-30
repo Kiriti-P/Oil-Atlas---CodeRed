@@ -44,6 +44,7 @@ const Chart = () => {
 		}]
 	}
 	return (
+    
 		<div className='chart'>
 			<CanvasJSChart options = {options}
 				/* onRef={ref => this.chart = ref} */
