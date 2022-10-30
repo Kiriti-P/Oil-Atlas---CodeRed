@@ -42,10 +42,6 @@ services:
       # - PHARUS_PUBLIC_KEY
       # - FLASK_ENV=development # enables logging to console from Flask
       # - PHARUS_SPEC_PATH=tests/init/test_dynamic_api_spec.yaml # for dynamic api spec
-
-      #creating a volume for caching
-    volumes:
-      - ./Backend:/app
       # - ./pharus:/opt/conda/lib/python3.8/site-packages/pharus
     command: npm start
 
@@ -81,16 +77,3 @@ services:
 #       - traefik.http.routers.proxy.rule=Host('')
 #       - traefik.http.routers.proxy.middlewares=pass-to-api@file
 #       - traefik.http.routers.proxy.service=api@Internal
-
-#The Labbook service to handle front en
-  
-    #lable for later routing
-    # labels:
-    #   - traefik.enable=true
-    #   - traefik.http.routers.labbook.rule=Host(Localhost)
-    #   - traefik.http.services.labbook.server.port=3000
-    #   - traefik.http.routers.labbook.middlewares=pass-to-api
-
-#The netwrok all these Services will share
-networks:
-  main:
