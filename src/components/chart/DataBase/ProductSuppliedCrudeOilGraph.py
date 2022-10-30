@@ -26,9 +26,8 @@ def graphData():
     plt.ylabel('Product Supplied')
     plt.title(
         "U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)")
-    # plt.savefig("ProductSupplied.png")
-    # plt.show()
-    mpld3.fig_to_html(mpld3)
+    plt.savefig("ProductSupplied.png")
+    # mpld3.show()
     jsonfile.close()
 
 

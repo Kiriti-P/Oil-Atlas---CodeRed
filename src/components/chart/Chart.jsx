@@ -1,21 +1,56 @@
 import './chart.scss'
-import ScriptTag from 'react-script-tag';
- import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import React from 'react';
+import CanvasJSReact from '../../canvasjs.react';
+import data from './DataBase/ProducedCrudeData.json';
+//var CanvasJS = CanvasJSReact.CanvasJS;
+var CanvasJSChart = CanvasJSReact.CanvasJSChart;
+// import api 
+// import Api from '/api';
+// import { useEffect, useState } from 'react'
 
+let crudeData = [];
+for (let i = 0; i < data["Data 1"].length; i++) {
+	if (i%20 === 0) {
+		crudeData.push({
+			label: data["Data 1"].at(i).Date,
+			y: data["Data 1"].at(i)['U.S. Field Production of Crude Oil (Thousand Barrels)']
+	})
+	}
+}
 
 
 const Chart = () => {
-  return (
-    <div className='chart'>
-      <div className="title">Last 6 Months Revenue</div>
-     
-        <ResponsiveContainer width="100%" aspect={2/1}>
-          <ScriptTag type="server/javascript" src="server.js" />
-      </ResponsiveContainer>
-
-      
-    </div>
-  )
+	const options = {
+		animationEnabled: true,
+		exportEnabled: true,
+		theme: "light2", // "light1", "dark1", "dark2"
+		title:{
+			text: "U.S. Total Crude Production"
+		},
+		axisY: {
+			title: "Crude Produced\n(Thousand Barrels)",
+			//suffix: "%"
+		},
+		axisX: {
+			title: "Year",
+			//prefix: "W",
+			//interval: 2
+		},
+		
+		data: [{
+			type: "column",
+			toolTipContent: "Week {label}: {y}",
+			dataPoints: crudeData
+		}]
+	}
+	return (
+		<div className='chart'>
+			<CanvasJSChart options = {options}
+				/* onRef={ref => this.chart = ref} */
+			/>
+			{/*You can get reference to the chart instance as shown above using onRef. This allows you to access all chart properties and methods*/}
+		</div>
+	);
 }
-
-export default Chart
+//module.exports = Chart;
+export default Chart;
