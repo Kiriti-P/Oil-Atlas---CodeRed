@@ -1,6 +1,15 @@
 import './chart.scss'
  import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
+<<<<<<< HEAD
+=======
+// import api 
+// import Api from '/api';
+// import { useEffect, useState } from 'react'
+
+
+
+>>>>>>> 1f6917d (cleanming up junk)
 const data = [
   { name: 'January', total: 1200 },
   { name: 'February', total: 3000 },
