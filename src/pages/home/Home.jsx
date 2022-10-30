@@ -29,6 +29,8 @@ const Home = () => {
             </Carousel>
             
           </div>
+          
+
           <div className="charts">
             <Feature />
             <Chart />
