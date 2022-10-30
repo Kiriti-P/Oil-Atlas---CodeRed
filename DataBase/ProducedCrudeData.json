@@ -1,0 +1,4937 @@
+{
+"Contents":[
+ {
+  "Workbook Contents": "U.S. Field Production of Crude Oil (Thousand Barrels)"
+ },
+ {
+  "Workbook Contents": "Excel File Name:",
+  "Column3": "mcrfpus1m.xls"
+ }
+],
+"Data 1":[
+ {
+  "Date": "Jan-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 34008
+ },
+ {
+  "Date": "Feb-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 33193
+ },
+ {
+  "Date": "Mar-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 36171
+ },
+ {
+  "Date": "Apr-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 34945
+ },
+ {
+  "Date": "May-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 36622
+ },
+ {
+  "Date": "Jun-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 36663
+ },
+ {
+  "Date": "Jul-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 37746
+ },
+ {
+  "Date": "Aug-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 38906
+ },
+ {
+  "Date": "Sep-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 37521
+ },
+ {
+  "Date": "Oct-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 39584
+ },
+ {
+  "Date": "Nov-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 38609
+ },
+ {
+  "Date": "Dec-1920",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 38961
+ },
+ {
+  "Date": "Jan-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 38138
+ },
+ {
+  "Date": "Feb-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 35524
+ },
+ {
+  "Date": "Mar-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 41105
+ },
+ {
+  "Date": "Apr-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 40233
+ },
+ {
+  "Date": "May-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 42189
+ },
+ {
+  "Date": "Jun-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 40548
+ },
+ {
+  "Date": "Jul-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 40461
+ },
+ {
+  "Date": "Aug-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 41109
+ },
+ {
+  "Date": "Sep-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 36763
+ },
+ {
+  "Date": "Oct-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 35832
+ },
+ {
+  "Date": "Nov-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 38108
+ },
+ {
+  "Date": "Dec-1921",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 42173
+ },
+ {
+  "Date": "Jan-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 43696
+ },
+ {
+  "Date": "Feb-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 41314
+ },
+ {
+  "Date": "Mar-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 47188
+ },
+ {
+  "Date": "Apr-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 45167
+ },
+ {
+  "Date": "May-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 47002
+ },
+ {
+  "Date": "Jun-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 46087
+ },
+ {
+  "Date": "Jul-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 47134
+ },
+ {
+  "Date": "Aug-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 47059
+ },
+ {
+  "Date": "Sep-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 45805
+ },
+ {
+  "Date": "Oct-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 48410
+ },
+ {
+  "Date": "Nov-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 48027
+ },
+ {
+  "Date": "Dec-1922",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 50642
+ },
+ {
+  "Date": "Jan-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 52527
+ },
+ {
+  "Date": "Feb-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 48588
+ },
+ {
+  "Date": "Mar-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 56969
+ },
+ {
+  "Date": "Apr-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 59008
+ },
+ {
+  "Date": "May-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 62377
+ },
+ {
+  "Date": "Jun-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 62845
+ },
+ {
+  "Date": "Jul-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65925
+ },
+ {
+  "Date": "Aug-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 66422
+ },
+ {
+  "Date": "Sep-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65306
+ },
+ {
+  "Date": "Oct-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67506
+ },
+ {
+  "Date": "Nov-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65388
+ },
+ {
+  "Date": "Dec-1923",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 59546
+ },
+ {
+  "Date": "Jan-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 57273
+ },
+ {
+  "Date": "Feb-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 55889
+ },
+ {
+  "Date": "Mar-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60141
+ },
+ {
+  "Date": "Apr-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 59830
+ },
+ {
+  "Date": "May-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 61834
+ },
+ {
+  "Date": "Jun-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 59583
+ },
+ {
+  "Date": "Jul-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 61932
+ },
+ {
+  "Date": "Aug-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 62398
+ },
+ {
+  "Date": "Sep-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60376
+ },
+ {
+  "Date": "Oct-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60469
+ },
+ {
+  "Date": "Nov-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 56782
+ },
+ {
+  "Date": "Dec-1924",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 57433
+ },
+ {
+  "Date": "Jan-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 53802
+ },
+ {
+  "Date": "Feb-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 48571
+ },
+ {
+  "Date": "Mar-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 53597
+ },
+ {
+  "Date": "Apr-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 51914
+ },
+ {
+  "Date": "May-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 53367
+ },
+ {
+  "Date": "Jun-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 51915
+ },
+ {
+  "Date": "Jul-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 52138
+ },
+ {
+  "Date": "Aug-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 52198
+ },
+ {
+  "Date": "Sep-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 51559
+ },
+ {
+  "Date": "Oct-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 51769
+ },
+ {
+  "Date": "Nov-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 49921
+ },
+ {
+  "Date": "Dec-1925",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 49622
+ },
+ {
+  "Date": "Jan-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 59981
+ },
+ {
+  "Date": "Feb-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 54892
+ },
+ {
+  "Date": "Mar-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60880
+ },
+ {
+  "Date": "Apr-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60371
+ },
+ {
+  "Date": "May-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 62822
+ },
+ {
+  "Date": "Jun-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 61789
+ },
+ {
+  "Date": "Jul-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65168
+ },
+ {
+  "Date": "Aug-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67009
+ },
+ {
+  "Date": "Sep-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65782
+ },
+ {
+  "Date": "Oct-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 69664
+ },
+ {
+  "Date": "Nov-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 69891
+ },
+ {
+  "Date": "Dec-1926",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72625
+ },
+ {
+  "Date": "Jan-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 71758
+ },
+ {
+  "Date": "Feb-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 68122
+ },
+ {
+  "Date": "Mar-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75514
+ },
+ {
+  "Date": "Apr-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 73132
+ },
+ {
+  "Date": "May-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76845
+ },
+ {
+  "Date": "Jun-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75303
+ },
+ {
+  "Date": "Jul-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78780
+ },
+ {
+  "Date": "Aug-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78788
+ },
+ {
+  "Date": "Sep-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75909
+ },
+ {
+  "Date": "Oct-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 77534
+ },
+ {
+  "Date": "Nov-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74493
+ },
+ {
+  "Date": "Dec-1927",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74951
+ },
+ {
+  "Date": "Jan-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72793
+ },
+ {
+  "Date": "Feb-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 68565
+ },
+ {
+  "Date": "Mar-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74528
+ },
+ {
+  "Date": "Apr-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72393
+ },
+ {
+  "Date": "May-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75277
+ },
+ {
+  "Date": "Jun-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72676
+ },
+ {
+  "Date": "Jul-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75584
+ },
+ {
+  "Date": "Aug-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 77807
+ },
+ {
+  "Date": "Sep-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76484
+ },
+ {
+  "Date": "Oct-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79751
+ },
+ {
+  "Date": "Nov-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76123
+ },
+ {
+  "Date": "Dec-1928",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79493
+ },
+ {
+  "Date": "Jan-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 82054
+ },
+ {
+  "Date": "Feb-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75456
+ },
+ {
+  "Date": "Mar-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 82463
+ },
+ {
+  "Date": "Apr-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 80412
+ },
+ {
+  "Date": "May-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 84499
+ },
+ {
+  "Date": "Jun-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 83407
+ },
+ {
+  "Date": "Jul-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 91309
+ },
+ {
+  "Date": "Aug-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 92165
+ },
+ {
+  "Date": "Sep-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 87453
+ },
+ {
+  "Date": "Oct-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 88430
+ },
+ {
+  "Date": "Nov-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78758
+ },
+ {
+  "Date": "Dec-1929",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 80917
+ },
+ {
+  "Date": "Jan-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79633
+ },
+ {
+  "Date": "Feb-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74290
+ },
+ {
+  "Date": "Mar-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78226
+ },
+ {
+  "Date": "Apr-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 77483
+ },
+ {
+  "Date": "May-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 80528
+ },
+ {
+  "Date": "Jun-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 77060
+ },
+ {
+  "Date": "Jul-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76922
+ },
+ {
+  "Date": "Aug-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74831
+ },
+ {
+  "Date": "Sep-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 71216
+ },
+ {
+  "Date": "Oct-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72893
+ },
+ {
+  "Date": "Nov-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67957
+ },
+ {
+  "Date": "Dec-1930",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 66972
+ },
+ {
+  "Date": "Jan-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65737
+ },
+ {
+  "Date": "Feb-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 60540
+ },
+ {
+  "Date": "Mar-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 69429
+ },
+ {
+  "Date": "Apr-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72860
+ },
+ {
+  "Date": "May-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76822
+ },
+ {
+  "Date": "Jun-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75011
+ },
+ {
+  "Date": "Jul-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78210
+ },
+ {
+  "Date": "Aug-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 68014
+ },
+ {
+  "Date": "Sep-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 64378
+ },
+ {
+  "Date": "Oct-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 73297
+ },
+ {
+  "Date": "Nov-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 73456
+ },
+ {
+  "Date": "Dec-1931",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 73327
+ },
+ {
+  "Date": "Jan-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67014
+ },
+ {
+  "Date": "Feb-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 62512
+ },
+ {
+  "Date": "Mar-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67456
+ },
+ {
+  "Date": "Apr-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 67915
+ },
+ {
+  "Date": "May-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 68854
+ },
+ {
+  "Date": "Jun-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65144
+ },
+ {
+  "Date": "Jul-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 66655
+ },
+ {
+  "Date": "Aug-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 66568
+ },
+ {
+  "Date": "Sep-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65518
+ },
+ {
+  "Date": "Oct-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65598
+ },
+ {
+  "Date": "Nov-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 63630
+ },
+ {
+  "Date": "Dec-1932",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 58295
+ },
+ {
+  "Date": "Jan-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65159
+ },
+ {
+  "Date": "Feb-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 61252
+ },
+ {
+  "Date": "Mar-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75185
+ },
+ {
+  "Date": "Apr-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65709
+ },
+ {
+  "Date": "May-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 86638
+ },
+ {
+  "Date": "Jun-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 84386
+ },
+ {
+  "Date": "Jul-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 85321
+ },
+ {
+  "Date": "Aug-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 85485
+ },
+ {
+  "Date": "Sep-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78321
+ },
+ {
+  "Date": "Oct-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76077
+ },
+ {
+  "Date": "Nov-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 69966
+ },
+ {
+  "Date": "Dec-1933",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72157
+ },
+ {
+  "Date": "Jan-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72017
+ },
+ {
+  "Date": "Feb-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 65383
+ },
+ {
+  "Date": "Mar-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75426
+ },
+ {
+  "Date": "Apr-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75645
+ },
+ {
+  "Date": "May-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79966
+ },
+ {
+  "Date": "Jun-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79636
+ },
+ {
+  "Date": "Jul-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 81339
+ },
+ {
+  "Date": "Aug-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 79105
+ },
+ {
+  "Date": "Sep-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 75759
+ },
+ {
+  "Date": "Oct-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 76593
+ },
+ {
+  "Date": "Nov-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72399
+ },
+ {
+  "Date": "Dec-1934",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 74797
+ },
+ {
+  "Date": "Jan-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78715
+ },
+ {
+  "Date": "Feb-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 72763
+ },
+ {
+  "Date": "Mar-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 81488
+ },
+ {
+  "Date": "Apr-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 78427
+ },
+ {
+  "Date": "May-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 82454
+ },
+ {
+  "Date": "Jun-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 82338
+ },
+ {
+  "Date": "Jul-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 85485
+ },
+ {
+  "Date": "Aug-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 84816
+ },
+ {
+  "Date": "Sep-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 84109
+ },
+ {
+  "Date": "Oct-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 88160
+ },
+ {
+  "Date": "Nov-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 86476
+ },
+ {
+  "Date": "Dec-1935",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 88711
+ },
+ {
+  "Date": "Jan-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 88820
+ },
+ {
+  "Date": "Feb-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 82120
+ },
+ {
+  "Date": "Mar-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 90568
+ },
+ {
+  "Date": "Apr-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 90479
+ },
+ {
+  "Date": "May-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 93739
+ },
+ {
+  "Date": "Jun-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 90185
+ },
+ {
+  "Date": "Jul-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 92075
+ },
+ {
+  "Date": "Aug-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 95090
+ },
+ {
+  "Date": "Sep-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 90972
+ },
+ {
+  "Date": "Oct-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 95795
+ },
+ {
+  "Date": "Nov-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 91018
+ },
+ {
+  "Date": "Dec-1936",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 97652
+ },
+ {
+  "Date": "Jan-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 98567
+ },
+ {
+  "Date": "Feb-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 93173
+ },
+ {
+  "Date": "Mar-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106724
+ },
+ {
+  "Date": "Apr-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 104979
+ },
+ {
+  "Date": "May-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110911
+ },
+ {
+  "Date": "Jun-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 105812
+ },
+ {
+  "Date": "Jul-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110721
+ },
+ {
+  "Date": "Aug-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 115090
+ },
+ {
+  "Date": "Sep-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 109980
+ },
+ {
+  "Date": "Oct-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110911
+ },
+ {
+  "Date": "Nov-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 104206
+ },
+ {
+  "Date": "Dec-1937",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106579
+ },
+ {
+  "Date": "Jan-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106007
+ },
+ {
+  "Date": "Feb-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 94662
+ },
+ {
+  "Date": "Mar-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106524
+ },
+ {
+  "Date": "Apr-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 102702
+ },
+ {
+  "Date": "May-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 98674
+ },
+ {
+  "Date": "Jun-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 94277
+ },
+ {
+  "Date": "Jul-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 102898
+ },
+ {
+  "Date": "Aug-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106165
+ },
+ {
+  "Date": "Sep-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 98661
+ },
+ {
+  "Date": "Oct-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 101830
+ },
+ {
+  "Date": "Nov-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 98567
+ },
+ {
+  "Date": "Dec-1938",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 102287
+ },
+ {
+  "Date": "Jan-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 102490
+ },
+ {
+  "Date": "Feb-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 93475
+ },
+ {
+  "Date": "Mar-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 106768
+ },
+ {
+  "Date": "Apr-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 105510
+ },
+ {
+  "Date": "May-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110541
+ },
+ {
+  "Date": "Jun-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 104607
+ },
+ {
+  "Date": "Jul-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110937
+ },
+ {
+  "Date": "Aug-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 80865
+ },
+ {
+  "Date": "Sep-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 108168
+ },
+ {
+  "Date": "Oct-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 114198
+ },
+ {
+  "Date": "Nov-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 111887
+ },
+ {
+  "Date": "Dec-1939",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 114810
+ },
+ {
+  "Date": "Jan-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 117227
+ },
+ {
+  "Date": "Feb-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 108399
+ },
+ {
+  "Date": "Mar-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 121560
+ },
+ {
+  "Date": "Apr-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 119000
+ },
+ {
+  "Date": "May-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 123854
+ },
+ {
+  "Date": "Jun-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 119302
+ },
+ {
+  "Date": "Jul-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 127493
+ },
+ {
+  "Date": "Aug-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 130633
+ },
+ {
+  "Date": "Sep-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 130407
+ },
+ {
+  "Date": "Oct-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 136503
+ },
+ {
+  "Date": "Nov-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 133646
+ },
+ {
+  "Date": "Dec-1940",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 135152
+ },
+ {
+  "Date": "Jan-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110647
+ },
+ {
+  "Date": "Feb-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 100791
+ },
+ {
+  "Date": "Mar-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 112817
+ },
+ {
+  "Date": "Apr-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 111080
+ },
+ {
+  "Date": "May-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 116976
+ },
+ {
+  "Date": "Jun-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 115027
+ },
+ {
+  "Date": "Jul-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 118251
+ },
+ {
+  "Date": "Aug-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 121354
+ },
+ {
+  "Date": "Sep-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 119446
+ },
+ {
+  "Date": "Oct-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 126145
+ },
+ {
+  "Date": "Nov-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 123355
+ },
+ {
+  "Date": "Dec-1941",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 128293
+ },
+ {
+  "Date": "Jan-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 128262
+ },
+ {
+  "Date": "Feb-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 113961
+ },
+ {
+  "Date": "Mar-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 114473
+ },
+ {
+  "Date": "Apr-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 105053
+ },
+ {
+  "Date": "May-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 110192
+ },
+ {
+  "Date": "Jun-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 108595
+ },
+ {
+  "Date": "Jul-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 111782
+ },
+ {
+  "Date": "Aug-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 120429
+ },
+ {
+  "Date": "Sep-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 115801
+ },
+ {
+  "Date": "Oct-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 120311
+ },
+ {
+  "Date": "Nov-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 116101
+ },
+ {
+  "Date": "Dec-1942",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 120519
+ },
+ {
+  "Date": "Jan-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 117372
+ },
+ {
+  "Date": "Feb-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 108487
+ },
+ {
+  "Date": "Mar-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 121648
+ },
+ {
+  "Date": "Apr-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 119100
+ },
+ {
+  "Date": "May-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 123957
+ },
+ {
+  "Date": "Jun-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 120111
+ },
+ {
+  "Date": "Jul-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 127629
+ },
+ {
+  "Date": "Aug-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 130796
+ },
+ {
+  "Date": "Sep-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 130564
+ },
+ {
+  "Date": "Oct-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 136837
+ },
+ {
+  "Date": "Nov-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 133824
+ },
+ {
+  "Date": "Dec-1943",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 135288
+ },
+ {
+  "Date": "Jan-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 135682
+ },
+ {
+  "Date": "Feb-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 128842
+ },
+ {
+  "Date": "Mar-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 136814
+ },
+ {
+  "Date": "Apr-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 133588
+ },
+ {
+  "Date": "May-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 141189
+ },
+ {
+  "Date": "Jun-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 137263
+ },
+ {
+  "Date": "Jul-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 141438
+ },
+ {
+  "Date": "Aug-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 145407
+ },
+ {
+  "Date": "Sep-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 142985
+ },
+ {
+  "Date": "Oct-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 146911
+ },
+ {
+  "Date": "Nov-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 142463
+ },
+ {
+  "Date": "Dec-1944",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 145322
+ },
+ {
+  "Date": "Jan-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 147446
+ },
+ {
+  "Date": "Feb-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 133463
+ },
+ {
+  "Date": "Mar-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 148935
+ },
+ {
+  "Date": "Apr-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 144219
+ },
+ {
+  "Date": "May-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151180
+ },
+ {
+  "Date": "Jun-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 145783
+ },
+ {
+  "Date": "Jul-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151803
+ },
+ {
+  "Date": "Aug-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151198
+ },
+ {
+  "Date": "Sep-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 132690
+ },
+ {
+  "Date": "Oct-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 132800
+ },
+ {
+  "Date": "Nov-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 135511
+ },
+ {
+  "Date": "Dec-1945",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 138627
+ },
+ {
+  "Date": "Jan-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 143368
+ },
+ {
+  "Date": "Feb-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 132129
+ },
+ {
+  "Date": "Mar-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 136835
+ },
+ {
+  "Date": "Apr-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 140196
+ },
+ {
+  "Date": "May-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 148334
+ },
+ {
+  "Date": "Jun-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 146890
+ },
+ {
+  "Date": "Jul-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152586
+ },
+ {
+  "Date": "Aug-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 149910
+ },
+ {
+  "Date": "Sep-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 143708
+ },
+ {
+  "Date": "Oct-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 148323
+ },
+ {
+  "Date": "Nov-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 144674
+ },
+ {
+  "Date": "Dec-1946",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 146471
+ },
+ {
+  "Date": "Jan-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 144823
+ },
+ {
+  "Date": "Feb-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 134696
+ },
+ {
+  "Date": "Mar-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152178
+ },
+ {
+  "Date": "Apr-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 149410
+ },
+ {
+  "Date": "May-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 156055
+ },
+ {
+  "Date": "Jun-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 153058
+ },
+ {
+  "Date": "Jul-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 159366
+ },
+ {
+  "Date": "Aug-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 160448
+ },
+ {
+  "Date": "Sep-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 157665
+ },
+ {
+  "Date": "Oct-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 165032
+ },
+ {
+  "Date": "Nov-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158701
+ },
+ {
+  "Date": "Dec-1947",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 165555
+ },
+ {
+  "Date": "Jan-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 164098
+ },
+ {
+  "Date": "Feb-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155577
+ },
+ {
+  "Date": "Mar-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167868
+ },
+ {
+  "Date": "Apr-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 164726
+ },
+ {
+  "Date": "May-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170705
+ },
+ {
+  "Date": "Jun-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166448
+ },
+ {
+  "Date": "Jul-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 171369
+ },
+ {
+  "Date": "Aug-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173015
+ },
+ {
+  "Date": "Sep-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 163244
+ },
+ {
+  "Date": "Oct-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174972
+ },
+ {
+  "Date": "Nov-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170777
+ },
+ {
+  "Date": "Dec-1948",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 177386
+ },
+ {
+  "Date": "Jan-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167016
+ },
+ {
+  "Date": "Feb-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 150682
+ },
+ {
+  "Date": "Mar-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 162399
+ },
+ {
+  "Date": "Apr-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 150343
+ },
+ {
+  "Date": "May-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154250
+ },
+ {
+  "Date": "Jun-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 147283
+ },
+ {
+  "Date": "Jul-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 145530
+ },
+ {
+  "Date": "Aug-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 148356
+ },
+ {
+  "Date": "Sep-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 148286
+ },
+ {
+  "Date": "Oct-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155469
+ },
+ {
+  "Date": "Nov-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 156496
+ },
+ {
+  "Date": "Dec-1949",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155830
+ },
+ {
+  "Date": "Jan-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152935
+ },
+ {
+  "Date": "Feb-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 139127
+ },
+ {
+  "Date": "Mar-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151301
+ },
+ {
+  "Date": "Apr-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 149147
+ },
+ {
+  "Date": "May-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 159558
+ },
+ {
+  "Date": "Jun-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161305
+ },
+ {
+  "Date": "Jul-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170058
+ },
+ {
+  "Date": "Aug-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176192
+ },
+ {
+  "Date": "Sep-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176698
+ },
+ {
+  "Date": "Oct-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183011
+ },
+ {
+  "Date": "Nov-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176782
+ },
+ {
+  "Date": "Dec-1950",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 177460
+ },
+ {
+  "Date": "Jan-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183437
+ },
+ {
+  "Date": "Feb-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166163
+ },
+ {
+  "Date": "Mar-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 187774
+ },
+ {
+  "Date": "Apr-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183860
+ },
+ {
+  "Date": "May-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 191601
+ },
+ {
+  "Date": "Jun-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184064
+ },
+ {
+  "Date": "Jul-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190626
+ },
+ {
+  "Date": "Aug-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193537
+ },
+ {
+  "Date": "Sep-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188016
+ },
+ {
+  "Date": "Oct-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198163
+ },
+ {
+  "Date": "Nov-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188499
+ },
+ {
+  "Date": "Dec-1951",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 191971
+ },
+ {
+  "Date": "Jan-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192848
+ },
+ {
+  "Date": "Feb-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184818
+ },
+ {
+  "Date": "Mar-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197121
+ },
+ {
+  "Date": "Apr-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192936
+ },
+ {
+  "Date": "May-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 157748
+ },
+ {
+  "Date": "Jun-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 185692
+ },
+ {
+  "Date": "Jul-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188985
+ },
+ {
+  "Date": "Aug-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192768
+ },
+ {
+  "Date": "Sep-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 195603
+ },
+ {
+  "Date": "Oct-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201581
+ },
+ {
+  "Date": "Nov-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193832
+ },
+ {
+  "Date": "Dec-1952",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 205904
+ },
+ {
+  "Date": "Jan-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 203211
+ },
+ {
+  "Date": "Feb-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183183
+ },
+ {
+  "Date": "Mar-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202024
+ },
+ {
+  "Date": "Apr-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 191953
+ },
+ {
+  "Date": "May-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198117
+ },
+ {
+  "Date": "Jun-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197630
+ },
+ {
+  "Date": "Jul-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 204711
+ },
+ {
+  "Date": "Aug-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 204490
+ },
+ {
+  "Date": "Sep-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196571
+ },
+ {
+  "Date": "Oct-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193726
+ },
+ {
+  "Date": "Nov-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188116
+ },
+ {
+  "Date": "Dec-1953",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193350
+ },
+ {
+  "Date": "Jan-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193437
+ },
+ {
+  "Date": "Feb-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178644
+ },
+ {
+  "Date": "Mar-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201763
+ },
+ {
+  "Date": "Apr-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198502
+ },
+ {
+  "Date": "May-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200627
+ },
+ {
+  "Date": "Jun-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194974
+ },
+ {
+  "Date": "Jul-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194098
+ },
+ {
+  "Date": "Aug-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190388
+ },
+ {
+  "Date": "Sep-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184325
+ },
+ {
+  "Date": "Oct-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 189724
+ },
+ {
+  "Date": "Nov-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190372
+ },
+ {
+  "Date": "Dec-1954",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198134
+ },
+ {
+  "Date": "Jan-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209601
+ },
+ {
+  "Date": "Feb-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 191342
+ },
+ {
+  "Date": "Mar-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213453
+ },
+ {
+  "Date": "Apr-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 206668
+ },
+ {
+  "Date": "May-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 207067
+ },
+ {
+  "Date": "Jun-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197844
+ },
+ {
+  "Date": "Jul-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 205614
+ },
+ {
+  "Date": "Aug-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 206619
+ },
+ {
+  "Date": "Sep-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202037
+ },
+ {
+  "Date": "Oct-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 211866
+ },
+ {
+  "Date": "Nov-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 210454
+ },
+ {
+  "Date": "Dec-1955",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221863
+ },
+ {
+  "Date": "Jan-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223125
+ },
+ {
+  "Date": "Feb-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209078
+ },
+ {
+  "Date": "Mar-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 225645
+ },
+ {
+  "Date": "Apr-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214412
+ },
+ {
+  "Date": "May-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 218942
+ },
+ {
+  "Date": "Jun-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213010
+ },
+ {
+  "Date": "Jul-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219770
+ },
+ {
+  "Date": "Aug-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223035
+ },
+ {
+  "Date": "Sep-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 211585
+ },
+ {
+  "Date": "Oct-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215570
+ },
+ {
+  "Date": "Nov-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214438
+ },
+ {
+  "Date": "Dec-1956",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228673
+ },
+ {
+  "Date": "Jan-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 231631
+ },
+ {
+  "Date": "Feb-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214967
+ },
+ {
+  "Date": "Mar-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 238490
+ },
+ {
+  "Date": "Apr-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226392
+ },
+ {
+  "Date": "May-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230466
+ },
+ {
+  "Date": "Jun-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213302
+ },
+ {
+  "Date": "Jul-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212781
+ },
+ {
+  "Date": "Aug-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 210150
+ },
+ {
+  "Date": "Sep-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 206777
+ },
+ {
+  "Date": "Oct-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212055
+ },
+ {
+  "Date": "Nov-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 205249
+ },
+ {
+  "Date": "Dec-1957",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214641
+ },
+ {
+  "Date": "Jan-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213280
+ },
+ {
+  "Date": "Feb-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190947
+ },
+ {
+  "Date": "Mar-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194580
+ },
+ {
+  "Date": "Apr-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 189014
+ },
+ {
+  "Date": "May-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193205
+ },
+ {
+  "Date": "Jun-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190172
+ },
+ {
+  "Date": "Jul-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 203701
+ },
+ {
+  "Date": "Aug-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215030
+ },
+ {
+  "Date": "Sep-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212642
+ },
+ {
+  "Date": "Oct-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215887
+ },
+ {
+  "Date": "Nov-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209252
+ },
+ {
+  "Date": "Dec-1958",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221277
+ },
+ {
+  "Date": "Jan-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223926
+ },
+ {
+  "Date": "Feb-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201435
+ },
+ {
+  "Date": "Mar-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222839
+ },
+ {
+  "Date": "Apr-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 217685
+ },
+ {
+  "Date": "May-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223806
+ },
+ {
+  "Date": "Jun-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212489
+ },
+ {
+  "Date": "Jul-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 210311
+ },
+ {
+  "Date": "Aug-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209733
+ },
+ {
+  "Date": "Sep-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 205700
+ },
+ {
+  "Date": "Oct-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214248
+ },
+ {
+  "Date": "Nov-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209449
+ },
+ {
+  "Date": "Dec-1959",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222969
+ },
+ {
+  "Date": "Jan-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 224140
+ },
+ {
+  "Date": "Feb-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209986
+ },
+ {
+  "Date": "Mar-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220977
+ },
+ {
+  "Date": "Apr-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 211132
+ },
+ {
+  "Date": "May-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212296
+ },
+ {
+  "Date": "Jun-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 208161
+ },
+ {
+  "Date": "Jul-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212645
+ },
+ {
+  "Date": "Aug-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215145
+ },
+ {
+  "Date": "Sep-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209119
+ },
+ {
+  "Date": "Oct-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215687
+ },
+ {
+  "Date": "Nov-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213992
+ },
+ {
+  "Date": "Dec-1960",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221653
+ },
+ {
+  "Date": "Jan-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223497
+ },
+ {
+  "Date": "Feb-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 204274
+ },
+ {
+  "Date": "Mar-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 231596
+ },
+ {
+  "Date": "Apr-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219846
+ },
+ {
+  "Date": "May-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221553
+ },
+ {
+  "Date": "Jun-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213084
+ },
+ {
+  "Date": "Jul-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215699
+ },
+ {
+  "Date": "Aug-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220218
+ },
+ {
+  "Date": "Sep-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209848
+ },
+ {
+  "Date": "Oct-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220942
+ },
+ {
+  "Date": "Nov-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214566
+ },
+ {
+  "Date": "Dec-1961",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226635
+ },
+ {
+  "Date": "Jan-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227756
+ },
+ {
+  "Date": "Feb-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209072
+ },
+ {
+  "Date": "Mar-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228661
+ },
+ {
+  "Date": "Apr-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221737
+ },
+ {
+  "Date": "May-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222969
+ },
+ {
+  "Date": "Jun-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 217712
+ },
+ {
+  "Date": "Jul-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 224018
+ },
+ {
+  "Date": "Aug-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 224240
+ },
+ {
+  "Date": "Sep-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219589
+ },
+ {
+  "Date": "Oct-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228380
+ },
+ {
+  "Date": "Nov-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223231
+ },
+ {
+  "Date": "Dec-1962",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228824
+ },
+ {
+  "Date": "Jan-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226420
+ },
+ {
+  "Date": "Feb-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212437
+ },
+ {
+  "Date": "Mar-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234289
+ },
+ {
+  "Date": "Apr-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228270
+ },
+ {
+  "Date": "May-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234499
+ },
+ {
+  "Date": "Jun-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226853
+ },
+ {
+  "Date": "Jul-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 235144
+ },
+ {
+  "Date": "Aug-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 236830
+ },
+ {
+  "Date": "Sep-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 225207
+ },
+ {
+  "Date": "Oct-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233610
+ },
+ {
+  "Date": "Nov-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226321
+ },
+ {
+  "Date": "Dec-1963",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 232843
+ },
+ {
+  "Date": "Jan-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 236337
+ },
+ {
+  "Date": "Feb-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222947
+ },
+ {
+  "Date": "Mar-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 239068
+ },
+ {
+  "Date": "Apr-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 232185
+ },
+ {
+  "Date": "May-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234742
+ },
+ {
+  "Date": "Jun-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226808
+ },
+ {
+  "Date": "Jul-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 231648
+ },
+ {
+  "Date": "Aug-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230926
+ },
+ {
+  "Date": "Sep-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 225965
+ },
+ {
+  "Date": "Oct-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 236304
+ },
+ {
+  "Date": "Nov-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 229029
+ },
+ {
+  "Date": "Dec-1964",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240863
+ },
+ {
+  "Date": "Jan-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240946
+ },
+ {
+  "Date": "Feb-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 218612
+ },
+ {
+  "Date": "Mar-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 243763
+ },
+ {
+  "Date": "Apr-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 236844
+ },
+ {
+  "Date": "May-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 238253
+ },
+ {
+  "Date": "Jun-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 232440
+ },
+ {
+  "Date": "Jul-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 237606
+ },
+ {
+  "Date": "Aug-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240180
+ },
+ {
+  "Date": "Sep-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222529
+ },
+ {
+  "Date": "Oct-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 244122
+ },
+ {
+  "Date": "Nov-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 239635
+ },
+ {
+  "Date": "Dec-1965",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 253584
+ },
+ {
+  "Date": "Jan-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249459
+ },
+ {
+  "Date": "Feb-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230733
+ },
+ {
+  "Date": "Mar-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257107
+ },
+ {
+  "Date": "Apr-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248155
+ },
+ {
+  "Date": "May-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258677
+ },
+ {
+  "Date": "Jun-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 250391
+ },
+ {
+  "Date": "Jul-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255121
+ },
+ {
+  "Date": "Aug-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255812
+ },
+ {
+  "Date": "Sep-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 247632
+ },
+ {
+  "Date": "Oct-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258008
+ },
+ {
+  "Date": "Nov-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252825
+ },
+ {
+  "Date": "Dec-1966",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263843
+ },
+ {
+  "Date": "Jan-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265577
+ },
+ {
+  "Date": "Feb-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 241366
+ },
+ {
+  "Date": "Mar-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264854
+ },
+ {
+  "Date": "Apr-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 254252
+ },
+ {
+  "Date": "May-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259923
+ },
+ {
+  "Date": "Jun-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256174
+ },
+ {
+  "Date": "Jul-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 283776
+ },
+ {
+  "Date": "Aug-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 292495
+ },
+ {
+  "Date": "Sep-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272845
+ },
+ {
+  "Date": "Oct-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 278997
+ },
+ {
+  "Date": "Nov-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269348
+ },
+ {
+  "Date": "Dec-1967",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276135
+ },
+ {
+  "Date": "Jan-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 279868
+ },
+ {
+  "Date": "Feb-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 270425
+ },
+ {
+  "Date": "Mar-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 288882
+ },
+ {
+  "Date": "Apr-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273690
+ },
+ {
+  "Date": "May-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285355
+ },
+ {
+  "Date": "Jun-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274320
+ },
+ {
+  "Date": "Jul-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 283836
+ },
+ {
+  "Date": "Aug-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 283154
+ },
+ {
+  "Date": "Sep-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267960
+ },
+ {
+  "Date": "Oct-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276396
+ },
+ {
+  "Date": "Nov-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269070
+ },
+ {
+  "Date": "Dec-1968",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276086
+ },
+ {
+  "Date": "Jan-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 275528
+ },
+ {
+  "Date": "Feb-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249984
+ },
+ {
+  "Date": "Mar-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 280705
+ },
+ {
+  "Date": "Apr-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 277140
+ },
+ {
+  "Date": "May-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 290036
+ },
+ {
+  "Date": "Jun-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 288935
+ },
+ {
+  "Date": "Jul-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 288145
+ },
+ {
+  "Date": "Aug-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 281077
+ },
+ {
+  "Date": "Sep-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 278850
+ },
+ {
+  "Date": "Oct-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285603
+ },
+ {
+  "Date": "Nov-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 280380
+ },
+ {
+  "Date": "Dec-1969",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 295368
+ },
+ {
+  "Date": "Jan-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293818
+ },
+ {
+  "Date": "Feb-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267960
+ },
+ {
+  "Date": "Mar-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 294748
+ },
+ {
+  "Date": "Apr-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287730
+ },
+ {
+  "Date": "May-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 295213
+ },
+ {
+  "Date": "Jun-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 280770
+ },
+ {
+  "Date": "Jul-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285274
+ },
+ {
+  "Date": "Aug-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 296360
+ },
+ {
+  "Date": "Sep-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 295590
+ },
+ {
+  "Date": "Oct-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 310403
+ },
+ {
+  "Date": "Nov-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 301320
+ },
+ {
+  "Date": "Dec-1970",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 308264
+ },
+ {
+  "Date": "Jan-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 299305
+ },
+ {
+  "Date": "Feb-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272412
+ },
+ {
+  "Date": "Mar-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 302808
+ },
+ {
+  "Date": "Apr-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293070
+ },
+ {
+  "Date": "May-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 298995
+ },
+ {
+  "Date": "Jun-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 288120
+ },
+ {
+  "Date": "Jul-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293121
+ },
+ {
+  "Date": "Aug-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 291741
+ },
+ {
+  "Date": "Sep-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274050
+ },
+ {
+  "Date": "Oct-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284022
+ },
+ {
+  "Date": "Nov-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274170
+ },
+ {
+  "Date": "Dec-1971",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 282100
+ },
+ {
+  "Date": "Jan-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 282534
+ },
+ {
+  "Date": "Feb-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 270744
+ },
+ {
+  "Date": "Mar-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293322
+ },
+ {
+  "Date": "Apr-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285390
+ },
+ {
+  "Date": "May-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 298034
+ },
+ {
+  "Date": "Jun-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285660
+ },
+ {
+  "Date": "Jul-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 294376
+ },
+ {
+  "Date": "Aug-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293973
+ },
+ {
+  "Date": "Sep-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285240
+ },
+ {
+  "Date": "Oct-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293930
+ },
+ {
+  "Date": "Nov-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 282780
+ },
+ {
+  "Date": "Dec-1972",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 289385
+ },
+ {
+  "Date": "Jan-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284454
+ },
+ {
+  "Date": "Feb-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263066
+ },
+ {
+  "Date": "Mar-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287430
+ },
+ {
+  "Date": "Apr-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 278757
+ },
+ {
+  "Date": "May-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287134
+ },
+ {
+  "Date": "Jun-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276418
+ },
+ {
+  "Date": "Jul-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285731
+ },
+ {
+  "Date": "Aug-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284225
+ },
+ {
+  "Date": "Sep-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 271959
+ },
+ {
+  "Date": "Oct-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285940
+ },
+ {
+  "Date": "Nov-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274829
+ },
+ {
+  "Date": "Dec-1973",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 280960
+ },
+ {
+  "Date": "Jan-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276950
+ },
+ {
+  "Date": "Feb-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255982
+ },
+ {
+  "Date": "Mar-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 277927
+ },
+ {
+  "Date": "Apr-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268619
+ },
+ {
+  "Date": "May-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276228
+ },
+ {
+  "Date": "Jun-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263407
+ },
+ {
+  "Date": "Jul-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272184
+ },
+ {
+  "Date": "Aug-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269665
+ },
+ {
+  "Date": "Sep-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 253288
+ },
+ {
+  "Date": "Oct-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266949
+ },
+ {
+  "Date": "Nov-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257064
+ },
+ {
+  "Date": "Dec-1974",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264322
+ },
+ {
+  "Date": "Jan-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262104
+ },
+ {
+  "Date": "Feb-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240552
+ },
+ {
+  "Date": "Mar-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263297
+ },
+ {
+  "Date": "Apr-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 253698
+ },
+ {
+  "Date": "May-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259742
+ },
+ {
+  "Date": "Jun-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252624
+ },
+ {
+  "Date": "Jul-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258408
+ },
+ {
+  "Date": "Aug-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255712
+ },
+ {
+  "Date": "Sep-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248389
+ },
+ {
+  "Date": "Oct-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258057
+ },
+ {
+  "Date": "Nov-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248336
+ },
+ {
+  "Date": "Dec-1975",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255860
+ },
+ {
+  "Date": "Jan-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255185
+ },
+ {
+  "Date": "Feb-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 238705
+ },
+ {
+  "Date": "Mar-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255198
+ },
+ {
+  "Date": "Apr-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 242310
+ },
+ {
+  "Date": "May-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 251860
+ },
+ {
+  "Date": "Jun-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 242833
+ },
+ {
+  "Date": "Jul-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 251942
+ },
+ {
+  "Date": "Aug-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 251429
+ },
+ {
+  "Date": "Sep-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 244489
+ },
+ {
+  "Date": "Oct-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249962
+ },
+ {
+  "Date": "Nov-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 242388
+ },
+ {
+  "Date": "Dec-1976",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249879
+ },
+ {
+  "Date": "Jan-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 243478
+ },
+ {
+  "Date": "Feb-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227890
+ },
+ {
+  "Date": "Mar-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 250778
+ },
+ {
+  "Date": "Apr-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 244347
+ },
+ {
+  "Date": "May-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 250317
+ },
+ {
+  "Date": "Jun-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 243058
+ },
+ {
+  "Date": "Jul-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 251244
+ },
+ {
+  "Date": "Aug-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257510
+ },
+ {
+  "Date": "Sep-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 254392
+ },
+ {
+  "Date": "Oct-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265776
+ },
+ {
+  "Date": "Nov-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257378
+ },
+ {
+  "Date": "Dec-1977",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263097
+ },
+ {
+  "Date": "Jan-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259150
+ },
+ {
+  "Date": "Feb-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234544
+ },
+ {
+  "Date": "Mar-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 270324
+ },
+ {
+  "Date": "Apr-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264526
+ },
+ {
+  "Date": "May-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273583
+ },
+ {
+  "Date": "Jun-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264974
+ },
+ {
+  "Date": "Jul-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 271442
+ },
+ {
+  "Date": "Aug-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 271502
+ },
+ {
+  "Date": "Sep-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264010
+ },
+ {
+  "Date": "Oct-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273420
+ },
+ {
+  "Date": "Nov-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262233
+ },
+ {
+  "Date": "Dec-1978",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268508
+ },
+ {
+  "Date": "Jan-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262716
+ },
+ {
+  "Date": "Feb-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 238710
+ },
+ {
+  "Date": "Mar-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266635
+ },
+ {
+  "Date": "Apr-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256593
+ },
+ {
+  "Date": "May-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266631
+ },
+ {
+  "Date": "Jun-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252949
+ },
+ {
+  "Date": "Jul-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259278
+ },
+ {
+  "Date": "Aug-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264981
+ },
+ {
+  "Date": "Sep-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255693
+ },
+ {
+  "Date": "Oct-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267256
+ },
+ {
+  "Date": "Nov-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262818
+ },
+ {
+  "Date": "Dec-1979",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267050
+ },
+ {
+  "Date": "Jan-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268940
+ },
+ {
+  "Date": "Feb-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252431
+ },
+ {
+  "Date": "Mar-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269650
+ },
+ {
+  "Date": "Apr-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260541
+ },
+ {
+  "Date": "May-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267684
+ },
+ {
+  "Date": "Jun-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256619
+ },
+ {
+  "Date": "Jul-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264964
+ },
+ {
+  "Date": "Aug-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260841
+ },
+ {
+  "Date": "Sep-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258577
+ },
+ {
+  "Date": "Oct-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264489
+ },
+ {
+  "Date": "Nov-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 254852
+ },
+ {
+  "Date": "Dec-1980",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266777
+ },
+ {
+  "Date": "Jan-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 264736
+ },
+ {
+  "Date": "Feb-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240914
+ },
+ {
+  "Date": "Mar-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267003
+ },
+ {
+  "Date": "Apr-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256708
+ },
+ {
+  "Date": "May-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263541
+ },
+ {
+  "Date": "Jun-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258859
+ },
+ {
+  "Date": "Jul-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263498
+ },
+ {
+  "Date": "Aug-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266069
+ },
+ {
+  "Date": "Sep-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258120
+ },
+ {
+  "Date": "Oct-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265450
+ },
+ {
+  "Date": "Nov-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257579
+ },
+ {
+  "Date": "Dec-1981",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266147
+ },
+ {
+  "Date": "Jan-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263793
+ },
+ {
+  "Date": "Feb-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 243661
+ },
+ {
+  "Date": "Mar-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268687
+ },
+ {
+  "Date": "Apr-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257738
+ },
+ {
+  "Date": "May-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269186
+ },
+ {
+  "Date": "Jun-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259383
+ },
+ {
+  "Date": "Jul-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268398
+ },
+ {
+  "Date": "Aug-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267643
+ },
+ {
+  "Date": "Sep-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 261028
+ },
+ {
+  "Date": "Oct-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269745
+ },
+ {
+  "Date": "Nov-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260918
+ },
+ {
+  "Date": "Dec-1982",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266535
+ },
+ {
+  "Date": "Jan-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269604
+ },
+ {
+  "Date": "Feb-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 245237
+ },
+ {
+  "Date": "Mar-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269706
+ },
+ {
+  "Date": "Apr-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263269
+ },
+ {
+  "Date": "May-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267575
+ },
+ {
+  "Date": "Jun-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260014
+ },
+ {
+  "Date": "Jul-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267717
+ },
+ {
+  "Date": "Aug-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269053
+ },
+ {
+  "Date": "Sep-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263530
+ },
+ {
+  "Date": "Oct-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 271890
+ },
+ {
+  "Date": "Nov-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 263111
+ },
+ {
+  "Date": "Dec-1983",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260293
+ },
+ {
+  "Date": "Jan-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274902
+ },
+ {
+  "Date": "Feb-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257357
+ },
+ {
+  "Date": "Mar-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268829
+ },
+ {
+  "Date": "Apr-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265872
+ },
+ {
+  "Date": "May-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 277616
+ },
+ {
+  "Date": "Jun-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265570
+ },
+ {
+  "Date": "Jul-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 275432
+ },
+ {
+  "Date": "Aug-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273091
+ },
+ {
+  "Date": "Sep-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269798
+ },
+ {
+  "Date": "Oct-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276075
+ },
+ {
+  "Date": "Nov-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269357
+ },
+ {
+  "Date": "Dec-1984",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 275797
+ },
+ {
+  "Date": "Jan-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 270926
+ },
+ {
+  "Date": "Feb-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252695
+ },
+ {
+  "Date": "Mar-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 281943
+ },
+ {
+  "Date": "Apr-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 271299
+ },
+ {
+  "Date": "May-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 283093
+ },
+ {
+  "Date": "Jun-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 270653
+ },
+ {
+  "Date": "Jul-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 277410
+ },
+ {
+  "Date": "Aug-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272881
+ },
+ {
+  "Date": "Sep-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268610
+ },
+ {
+  "Date": "Oct-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 278068
+ },
+ {
+  "Date": "Nov-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267059
+ },
+ {
+  "Date": "Dec-1985",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 279916
+ },
+ {
+  "Date": "Jan-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 283248
+ },
+ {
+  "Date": "Feb-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256855
+ },
+ {
+  "Date": "Mar-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 279413
+ },
+ {
+  "Date": "Apr-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 265917
+ },
+ {
+  "Date": "May-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273964
+ },
+ {
+  "Date": "Jun-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258700
+ },
+ {
+  "Date": "Jul-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268448
+ },
+ {
+  "Date": "Aug-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259580
+ },
+ {
+  "Date": "Sep-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249843
+ },
+ {
+  "Date": "Oct-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260984
+ },
+ {
+  "Date": "Nov-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 252374
+ },
+ {
+  "Date": "Dec-1986",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258926
+ },
+ {
+  "Date": "Jan-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262888
+ },
+ {
+  "Date": "Feb-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234880
+ },
+ {
+  "Date": "Mar-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262398
+ },
+ {
+  "Date": "Apr-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 254945
+ },
+ {
+  "Date": "May-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 258426
+ },
+ {
+  "Date": "Jun-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248356
+ },
+ {
+  "Date": "Jul-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255782
+ },
+ {
+  "Date": "Aug-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 254508
+ },
+ {
+  "Date": "Sep-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 246163
+ },
+ {
+  "Date": "Oct-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259272
+ },
+ {
+  "Date": "Nov-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 251915
+ },
+ {
+  "Date": "Dec-1987",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257844
+ },
+ {
+  "Date": "Jan-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255743
+ },
+ {
+  "Date": "Feb-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 242848
+ },
+ {
+  "Date": "Mar-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 259587
+ },
+ {
+  "Date": "Apr-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248629
+ },
+ {
+  "Date": "May-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255089
+ },
+ {
+  "Date": "Jun-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 245102
+ },
+ {
+  "Date": "Jul-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 249229
+ },
+ {
+  "Date": "Aug-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 250459
+ },
+ {
+  "Date": "Sep-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 236847
+ },
+ {
+  "Date": "Oct-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 248704
+ },
+ {
+  "Date": "Nov-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240700
+ },
+ {
+  "Date": "Dec-1988",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 246189
+ },
+ {
+  "Date": "Jan-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 246056
+ },
+ {
+  "Date": "Feb-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 218076
+ },
+ {
+  "Date": "Mar-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 234822
+ },
+ {
+  "Date": "Apr-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233147
+ },
+ {
+  "Date": "May-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 242303
+ },
+ {
+  "Date": "Jun-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228731
+ },
+ {
+  "Date": "Jul-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230766
+ },
+ {
+  "Date": "Aug-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233878
+ },
+ {
+  "Date": "Sep-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226436
+ },
+ {
+  "Date": "Oct-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 231036
+ },
+ {
+  "Date": "Nov-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226082
+ },
+ {
+  "Date": "Dec-1989",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227439
+ },
+ {
+  "Date": "Jan-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233931
+ },
+ {
+  "Date": "Feb-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209923
+ },
+ {
+  "Date": "Mar-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230434
+ },
+ {
+  "Date": "Apr-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222215
+ },
+ {
+  "Date": "May-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227179
+ },
+ {
+  "Date": "Jun-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213175
+ },
+ {
+  "Date": "Jul-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222371
+ },
+ {
+  "Date": "Aug-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 225886
+ },
+ {
+  "Date": "Sep-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 216715
+ },
+ {
+  "Date": "Oct-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233799
+ },
+ {
+  "Date": "Nov-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221598
+ },
+ {
+  "Date": "Dec-1990",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227463
+ },
+ {
+  "Date": "Jan-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 232498
+ },
+ {
+  "Date": "Feb-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 213836
+ },
+ {
+  "Date": "Mar-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233926
+ },
+ {
+  "Date": "Apr-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 225256
+ },
+ {
+  "Date": "May-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 229670
+ },
+ {
+  "Date": "Jun-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219610
+ },
+ {
+  "Date": "Jul-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227756
+ },
+ {
+  "Date": "Aug-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226801
+ },
+ {
+  "Date": "Sep-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221029
+ },
+ {
+  "Date": "Oct-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 230557
+ },
+ {
+  "Date": "Nov-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219833
+ },
+ {
+  "Date": "Dec-1991",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 226267
+ },
+ {
+  "Date": "Jan-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228178
+ },
+ {
+  "Date": "Feb-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214269
+ },
+ {
+  "Date": "Mar-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227798
+ },
+ {
+  "Date": "Apr-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 218775
+ },
+ {
+  "Date": "May-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 222227
+ },
+ {
+  "Date": "Jun-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215019
+ },
+ {
+  "Date": "Jul-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221064
+ },
+ {
+  "Date": "Aug-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 214575
+ },
+ {
+  "Date": "Sep-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 210904
+ },
+ {
+  "Date": "Oct-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220898
+ },
+ {
+  "Date": "Nov-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 210724
+ },
+ {
+  "Date": "Dec-1992",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220200
+ },
+ {
+  "Date": "Jan-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 215791
+ },
+ {
+  "Date": "Feb-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194393
+ },
+ {
+  "Date": "Mar-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 216198
+ },
+ {
+  "Date": "Apr-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 206439
+ },
+ {
+  "Date": "May-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212255
+ },
+ {
+  "Date": "Jun-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 203842
+ },
+ {
+  "Date": "Jul-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 207339
+ },
+ {
+  "Date": "Aug-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209492
+ },
+ {
+  "Date": "Sep-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201347
+ },
+ {
+  "Date": "Oct-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212003
+ },
+ {
+  "Date": "Nov-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 207349
+ },
+ {
+  "Date": "Dec-1993",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212585
+ },
+ {
+  "Date": "Jan-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 211320
+ },
+ {
+  "Date": "Feb-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 189569
+ },
+ {
+  "Date": "Mar-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209114
+ },
+ {
+  "Date": "Apr-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198363
+ },
+ {
+  "Date": "May-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 207334
+ },
+ {
+  "Date": "Jun-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198318
+ },
+ {
+  "Date": "Jul-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201527
+ },
+ {
+  "Date": "Aug-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202869
+ },
+ {
+  "Date": "Sep-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198264
+ },
+ {
+  "Date": "Oct-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 206398
+ },
+ {
+  "Date": "Nov-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198850
+ },
+ {
+  "Date": "Dec-1994",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 209550
+ },
+ {
+  "Date": "Jan-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 207148
+ },
+ {
+  "Date": "Feb-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190245
+ },
+ {
+  "Date": "Mar-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 204613
+ },
+ {
+  "Date": "Apr-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198111
+ },
+ {
+  "Date": "May-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 205509
+ },
+ {
+  "Date": "Jun-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197359
+ },
+ {
+  "Date": "Jul-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 199912
+ },
+ {
+  "Date": "Aug-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 199846
+ },
+ {
+  "Date": "Sep-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192484
+ },
+ {
+  "Date": "Oct-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 199055
+ },
+ {
+  "Date": "Nov-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197559
+ },
+ {
+  "Date": "Dec-1995",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202428
+ },
+ {
+  "Date": "Jan-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201354
+ },
+ {
+  "Date": "Feb-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190727
+ },
+ {
+  "Date": "Mar-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 203715
+ },
+ {
+  "Date": "Apr-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193317
+ },
+ {
+  "Date": "May-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198208
+ },
+ {
+  "Date": "Jun-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193746
+ },
+ {
+  "Date": "Jul-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196471
+ },
+ {
+  "Date": "Aug-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197162
+ },
+ {
+  "Date": "Sep-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194456
+ },
+ {
+  "Date": "Oct-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200907
+ },
+ {
+  "Date": "Nov-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194268
+ },
+ {
+  "Date": "Dec-1996",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 201685
+ },
+ {
+  "Date": "Jan-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198466
+ },
+ {
+  "Date": "Feb-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182400
+ },
+ {
+  "Date": "Mar-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200013
+ },
+ {
+  "Date": "Apr-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193239
+ },
+ {
+  "Date": "May-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200702
+ },
+ {
+  "Date": "Jun-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193252
+ },
+ {
+  "Date": "Jul-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198691
+ },
+ {
+  "Date": "Aug-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196769
+ },
+ {
+  "Date": "Sep-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194575
+ },
+ {
+  "Date": "Oct-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200482
+ },
+ {
+  "Date": "Nov-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 193778
+ },
+ {
+  "Date": "Dec-1997",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202464
+ },
+ {
+  "Date": "Jan-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 202756
+ },
+ {
+  "Date": "Feb-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 181321
+ },
+ {
+  "Date": "Mar-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 198639
+ },
+ {
+  "Date": "Apr-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 194483
+ },
+ {
+  "Date": "May-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196754
+ },
+ {
+  "Date": "Jun-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188018
+ },
+ {
+  "Date": "Jul-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192026
+ },
+ {
+  "Date": "Aug-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 192282
+ },
+ {
+  "Date": "Sep-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173676
+ },
+ {
+  "Date": "Oct-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 190420
+ },
+ {
+  "Date": "Nov-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184198
+ },
+ {
+  "Date": "Dec-1998",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 187347
+ },
+ {
+  "Date": "Jan-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184864
+ },
+ {
+  "Date": "Feb-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167034
+ },
+ {
+  "Date": "Mar-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182362
+ },
+ {
+  "Date": "Apr-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176616
+ },
+ {
+  "Date": "May-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182122
+ },
+ {
+  "Date": "Jun-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172808
+ },
+ {
+  "Date": "Jul-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179738
+ },
+ {
+  "Date": "Aug-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179187
+ },
+ {
+  "Date": "Sep-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174113
+ },
+ {
+  "Date": "Oct-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184361
+ },
+ {
+  "Date": "Nov-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178811
+ },
+ {
+  "Date": "Dec-1999",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 184716
+ },
+ {
+  "Date": "Jan-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179316
+ },
+ {
+  "Date": "Feb-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 169703
+ },
+ {
+  "Date": "Mar-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183464
+ },
+ {
+  "Date": "Apr-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 175625
+ },
+ {
+  "Date": "May-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 181242
+ },
+ {
+  "Date": "Jun-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174686
+ },
+ {
+  "Date": "Jul-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 177920
+ },
+ {
+  "Date": "Aug-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179451
+ },
+ {
+  "Date": "Sep-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172731
+ },
+ {
+  "Date": "Oct-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 180080
+ },
+ {
+  "Date": "Nov-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174980
+ },
+ {
+  "Date": "Dec-2000",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 181508
+ },
+ {
+  "Date": "Jan-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179767
+ },
+ {
+  "Date": "Feb-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161843
+ },
+ {
+  "Date": "Mar-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182290
+ },
+ {
+  "Date": "Apr-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 175879
+ },
+ {
+  "Date": "May-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 180712
+ },
+ {
+  "Date": "Jun-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172974
+ },
+ {
+  "Date": "Jul-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178208
+ },
+ {
+  "Date": "Aug-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 177488
+ },
+ {
+  "Date": "Sep-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 171270
+ },
+ {
+  "Date": "Oct-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178129
+ },
+ {
+  "Date": "Nov-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176441
+ },
+ {
+  "Date": "Dec-2001",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182511
+ },
+ {
+  "Date": "Jan-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182076
+ },
+ {
+  "Date": "Feb-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 164666
+ },
+ {
+  "Date": "Mar-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182460
+ },
+ {
+  "Date": "Apr-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 175333
+ },
+ {
+  "Date": "May-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 183057
+ },
+ {
+  "Date": "Jun-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 176532
+ },
+ {
+  "Date": "Jul-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178275
+ },
+ {
+  "Date": "Aug-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179670
+ },
+ {
+  "Date": "Sep-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 162336
+ },
+ {
+  "Date": "Oct-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166105
+ },
+ {
+  "Date": "Nov-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168706
+ },
+ {
+  "Date": "Dec-2002",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 177372
+ },
+ {
+  "Date": "Jan-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 178412
+ },
+ {
+  "Date": "Feb-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161920
+ },
+ {
+  "Date": "Mar-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 179907
+ },
+ {
+  "Date": "Apr-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 171774
+ },
+ {
+  "Date": "May-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 175568
+ },
+ {
+  "Date": "Jun-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 169772
+ },
+ {
+  "Date": "Jul-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170452
+ },
+ {
+  "Date": "Aug-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172787
+ },
+ {
+  "Date": "Sep-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168270
+ },
+ {
+  "Date": "Oct-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174020
+ },
+ {
+  "Date": "Nov-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166397
+ },
+ {
+  "Date": "Dec-2003",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172715
+ },
+ {
+  "Date": "Jan-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173132
+ },
+ {
+  "Date": "Feb-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161583
+ },
+ {
+  "Date": "Mar-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174115
+ },
+ {
+  "Date": "Apr-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166810
+ },
+ {
+  "Date": "May-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 172235
+ },
+ {
+  "Date": "Jun-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 162208
+ },
+ {
+  "Date": "Jul-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170011
+ },
+ {
+  "Date": "Aug-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 165072
+ },
+ {
+  "Date": "Sep-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152444
+ },
+ {
+  "Date": "Oct-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 160270
+ },
+ {
+  "Date": "Nov-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 162699
+ },
+ {
+  "Date": "Dec-2004",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170815
+ },
+ {
+  "Date": "Jan-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168831
+ },
+ {
+  "Date": "Feb-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154038
+ },
+ {
+  "Date": "Mar-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173626
+ },
+ {
+  "Date": "Apr-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166885
+ },
+ {
+  "Date": "May-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173491
+ },
+ {
+  "Date": "Jun-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 163263
+ },
+ {
+  "Date": "Jul-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 162854
+ },
+ {
+  "Date": "Aug-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161153
+ },
+ {
+  "Date": "Sep-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 126417
+ },
+ {
+  "Date": "Oct-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 141200
+ },
+ {
+  "Date": "Nov-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 145708
+ },
+ {
+  "Date": "Dec-2005",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154630
+ },
+ {
+  "Date": "Jan-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 156480
+ },
+ {
+  "Date": "Feb-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 140894
+ },
+ {
+  "Date": "Mar-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155842
+ },
+ {
+  "Date": "Apr-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152450
+ },
+ {
+  "Date": "May-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 159667
+ },
+ {
+  "Date": "Jun-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154884
+ },
+ {
+  "Date": "Jul-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 157919
+ },
+ {
+  "Date": "Aug-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 156232
+ },
+ {
+  "Date": "Sep-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 150926
+ },
+ {
+  "Date": "Oct-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158353
+ },
+ {
+  "Date": "Nov-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151926
+ },
+ {
+  "Date": "Dec-2006",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 160768
+ },
+ {
+  "Date": "Jan-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158342
+ },
+ {
+  "Date": "Feb-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 143301
+ },
+ {
+  "Date": "Mar-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158697
+ },
+ {
+  "Date": "Apr-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155407
+ },
+ {
+  "Date": "May-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161548
+ },
+ {
+  "Date": "Jun-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152254
+ },
+ {
+  "Date": "Jul-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 156175
+ },
+ {
+  "Date": "Aug-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154060
+ },
+ {
+  "Date": "Sep-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 147061
+ },
+ {
+  "Date": "Oct-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155680
+ },
+ {
+  "Date": "Nov-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151021
+ },
+ {
+  "Date": "Dec-2007",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158427
+ },
+ {
+  "Date": "Jan-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158566
+ },
+ {
+  "Date": "Feb-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 149297
+ },
+ {
+  "Date": "Mar-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 160868
+ },
+ {
+  "Date": "Apr-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155403
+ },
+ {
+  "Date": "May-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 159437
+ },
+ {
+  "Date": "Jun-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 154133
+ },
+ {
+  "Date": "Jul-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 160481
+ },
+ {
+  "Date": "Aug-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155092
+ },
+ {
+  "Date": "Sep-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 119208
+ },
+ {
+  "Date": "Oct-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 146868
+ },
+ {
+  "Date": "Nov-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 152343
+ },
+ {
+  "Date": "Dec-2008",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158183
+ },
+ {
+  "Date": "Jan-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 159467
+ },
+ {
+  "Date": "Feb-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 146698
+ },
+ {
+  "Date": "Mar-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161776
+ },
+ {
+  "Date": "Apr-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158344
+ },
+ {
+  "Date": "May-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166684
+ },
+ {
+  "Date": "Jun-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 158079
+ },
+ {
+  "Date": "Jul-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167336
+ },
+ {
+  "Date": "Aug-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167945
+ },
+ {
+  "Date": "Sep-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166765
+ },
+ {
+  "Date": "Oct-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 171258
+ },
+ {
+  "Date": "Nov-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161838
+ },
+ {
+  "Date": "Dec-2009",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 169004
+ },
+ {
+  "Date": "Jan-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167529
+ },
+ {
+  "Date": "Feb-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 155496
+ },
+ {
+  "Date": "Mar-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170976
+ },
+ {
+  "Date": "Apr-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161769
+ },
+ {
+  "Date": "May-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167427
+ },
+ {
+  "Date": "Jun-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 161385
+ },
+ {
+  "Date": "Jul-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 164234
+ },
+ {
+  "Date": "Aug-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168867
+ },
+ {
+  "Date": "Sep-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168473
+ },
+ {
+  "Date": "Oct-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174547
+ },
+ {
+  "Date": "Nov-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167272
+ },
+ {
+  "Date": "Dec-2010",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 173831
+ },
+ {
+  "Date": "Jan-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 170393
+ },
+ {
+  "Date": "Feb-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 151354
+ },
+ {
+  "Date": "Mar-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174158
+ },
+ {
+  "Date": "Apr-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 166858
+ },
+ {
+  "Date": "May-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 174363
+ },
+ {
+  "Date": "Jun-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 167673
+ },
+ {
+  "Date": "Jul-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168635
+ },
+ {
+  "Date": "Aug-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 175618
+ },
+ {
+  "Date": "Sep-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 168411
+ },
+ {
+  "Date": "Oct-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 182977
+ },
+ {
+  "Date": "Nov-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 181157
+ },
+ {
+  "Date": "Dec-2011",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 189487
+ },
+ {
+  "Date": "Jan-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 191472
+ },
+ {
+  "Date": "Feb-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 181783
+ },
+ {
+  "Date": "Mar-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196138
+ },
+ {
+  "Date": "Apr-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 189601
+ },
+ {
+  "Date": "May-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197456
+ },
+ {
+  "Date": "Jun-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 188262
+ },
+ {
+  "Date": "Jul-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 199368
+ },
+ {
+  "Date": "Aug-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 196867
+ },
+ {
+  "Date": "Sep-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 197942
+ },
+ {
+  "Date": "Oct-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 216057
+ },
+ {
+  "Date": "Nov-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 212472
+ },
+ {
+  "Date": "Dec-2012",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 220282
+ },
+ {
+  "Date": "Jan-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 219601
+ },
+ {
+  "Date": "Feb-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 200383
+ },
+ {
+  "Date": "Mar-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 223683
+ },
+ {
+  "Date": "Apr-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 221242
+ },
+ {
+  "Date": "May-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 227139
+ },
+ {
+  "Date": "Jun-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 218355
+ },
+ {
+  "Date": "Jul-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233210
+ },
+ {
+  "Date": "Aug-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 233599
+ },
+ {
+  "Date": "Sep-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 235177
+ },
+ {
+  "Date": "Oct-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 240600
+ },
+ {
+  "Date": "Nov-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 237597
+ },
+ {
+  "Date": "Dec-2013",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 245937
+ },
+ {
+  "Date": "Jan-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 250430
+ },
+ {
+  "Date": "Feb-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 228396
+ },
+ {
+  "Date": "Mar-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 257225
+ },
+ {
+  "Date": "Apr-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255822
+ },
+ {
+  "Date": "May-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268025
+ },
+ {
+  "Date": "Jun-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262291
+ },
+ {
+  "Date": "Jul-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 274273
+ },
+ {
+  "Date": "Aug-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 276909
+ },
+ {
+  "Date": "Sep-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272623
+ },
+ {
+  "Date": "Oct-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287256
+ },
+ {
+  "Date": "Nov-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 279821
+ },
+ {
+  "Date": "Dec-2014",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 296518
+ },
+ {
+  "Date": "Jan-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 290891
+ },
+ {
+  "Date": "Feb-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266154
+ },
+ {
+  "Date": "Mar-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 297091
+ },
+ {
+  "Date": "Apr-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 289755
+ },
+ {
+  "Date": "May-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 293711
+ },
+ {
+  "Date": "Jun-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 280734
+ },
+ {
+  "Date": "Jul-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 292807
+ },
+ {
+  "Date": "Aug-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 291702
+ },
+ {
+  "Date": "Sep-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284406
+ },
+ {
+  "Date": "Oct-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 291419
+ },
+ {
+  "Date": "Nov-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 279982
+ },
+ {
+  "Date": "Dec-2015",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287533
+ },
+ {
+  "Date": "Jan-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285262
+ },
+ {
+  "Date": "Feb-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 262902
+ },
+ {
+  "Date": "Mar-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 282132
+ },
+ {
+  "Date": "Apr-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 266219
+ },
+ {
+  "Date": "May-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273875
+ },
+ {
+  "Date": "Jun-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 260284
+ },
+ {
+  "Date": "Jul-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 268526
+ },
+ {
+  "Date": "Aug-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 269386
+ },
+ {
+  "Date": "Sep-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 256317
+ },
+ {
+  "Date": "Oct-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 272918
+ },
+ {
+  "Date": "Nov-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 267097
+ },
+ {
+  "Date": "Dec-2016",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273288
+ },
+ {
+  "Date": "Jan-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 275117
+ },
+ {
+  "Date": "Feb-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 255081
+ },
+ {
+  "Date": "Mar-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284146
+ },
+ {
+  "Date": "Apr-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273041
+ },
+ {
+  "Date": "May-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 284727
+ },
+ {
+  "Date": "Jun-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 273321
+ },
+ {
+  "Date": "Jul-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 286657
+ },
+ {
+  "Date": "Aug-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 286759
+ },
+ {
+  "Date": "Sep-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 285499
+ },
+ {
+  "Date": "Oct-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 299726
+ },
+ {
+  "Date": "Nov-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 302564
+ },
+ {
+  "Date": "Dec-2017",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 309486
+ },
+ {
+  "Date": "Jan-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 310032
+ },
+ {
+  "Date": "Feb-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 287870
+ },
+ {
+  "Date": "Mar-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 324467
+ },
+ {
+  "Date": "Apr-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 314996
+ },
+ {
+  "Date": "May-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 323491
+ },
+ {
+  "Date": "Jun-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 319216
+ },
+ {
+  "Date": "Jul-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 337814
+ },
+ {
+  "Date": "Aug-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 353154
+ },
+ {
+  "Date": "Sep-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 343298
+ },
+ {
+  "Date": "Oct-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 356767
+ },
+ {
+  "Date": "Nov-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 356583
+ },
+ {
+  "Date": "Dec-2018",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 370284
+ },
+ {
+  "Date": "Jan-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 367924
+ },
+ {
+  "Date": "Feb-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 326845
+ },
+ {
+  "Date": "Mar-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 369292
+ },
+ {
+  "Date": "Apr-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 364458
+ },
+ {
+  "Date": "May-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 376763
+ },
+ {
+  "Date": "Jun-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 366546
+ },
+ {
+  "Date": "Jul-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 368965
+ },
+ {
+  "Date": "Aug-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 387073
+ },
+ {
+  "Date": "Sep-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 377710
+ },
+ {
+  "Date": "Oct-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 397094
+ },
+ {
+  "Date": "Nov-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 390010
+ },
+ {
+  "Date": "Dec-2019",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 402314
+ },
+ {
+  "Date": "Jan-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 398420
+ },
+ {
+  "Date": "Feb-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 372419
+ },
+ {
+  "Date": "Mar-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 396693
+ },
+ {
+  "Date": "Apr-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 357412
+ },
+ {
+  "Date": "May-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 301105
+ },
+ {
+  "Date": "Jun-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 313275
+ },
+ {
+  "Date": "Jul-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 341184
+ },
+ {
+  "Date": "Aug-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 327875
+ },
+ {
+  "Date": "Sep-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 327623
+ },
+ {
+  "Date": "Oct-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 324180
+ },
+ {
+  "Date": "Nov-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 335867
+ },
+ {
+  "Date": "Dec-2020",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 346223
+ },
+ {
+  "Date": "Jan-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 344846
+ },
+ {
+  "Date": "Feb-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 277891
+ },
+ {
+  "Date": "Mar-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 351102
+ },
+ {
+  "Date": "Apr-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 339142
+ },
+ {
+  "Date": "May-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 352036
+ },
+ {
+  "Date": "Jun-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 340693
+ },
+ {
+  "Date": "Jul-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 351757
+ },
+ {
+  "Date": "Aug-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 349600
+ },
+ {
+  "Date": "Sep-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 327526
+ },
+ {
+  "Date": "Oct-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 358626
+ },
+ {
+  "Date": "Nov-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 353702
+ },
+ {
+  "Date": "Dec-2021",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 360666
+ },
+ {
+  "Date": "Jan-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 352449
+ },
+ {
+  "Date": "Feb-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 316851
+ },
+ {
+  "Date": "Mar-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 362725
+ },
+ {
+  "Date": "Apr-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 350052
+ },
+ {
+  "Date": "May-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 360503
+ },
+ {
+  "Date": "Jun-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 353634
+ },
+ {
+  "Date": "Jul-2022",
+  "U.S. Field Production of Crude Oil (Thousand Barrels)": 365785
+ }
+]
+}
