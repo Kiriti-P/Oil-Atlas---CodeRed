@@ -1,27 +1,38 @@
 
 import matplotlib.pyplot as plt
 import json
+import sys
 
-jsonfile = open("DataBase/ProductSuppliedCrudeData.json", "r")
-jsondata = jsonfile.read()
 
-data_dict = json.loads(jsondata)
+def graphData():
+    jsonfile = open("ProductSuppliedCrudeData.json", "r")
+    jsondata = jsonfile.read()
 
-x = []
-y = []
+    data_dict = json.loads(jsondata)
 
-for i in data_dict["Data 1"]:
-    x.append(i["Date"])
+    x = []
+    y = []
 
-for i in data_dict["Data 1"]:
-    y.append(
-        i["U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)"])
+    for i in data_dict["Data 1"]:
+        x.append(i["Date"])
 
-plt.plot(x, y)
-plt.xlabel('Years')
-plt.ylabel('Product Supplied')
-plt.title(
-    "U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)")
-plt.show()
-plt.savefig("ProductSupplied.png")
-jsonfile.close()
+    for i in data_dict["Data 1"]:
+        y.append(
+            i["U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)"])
+
+    plt.plot(x, y)
+    plt.xlabel('Years')
+    plt.ylabel('Product Supplied')
+    plt.title(
+        "U.S. Product Supplied of Crude Oil and Petroleum Products (Thousand Barrels)")
+    plt.savefig("ProductSupplied.png")
+    plt.show()
+    jsonfile.close()
+
+
+if __name__ == '__main__':
+    try:
+        graphData()
+    except KeyboardInterrupt:
+        print >> sys.stderr, '\nExiting by user request.\n'
+        sys.exit(0)
