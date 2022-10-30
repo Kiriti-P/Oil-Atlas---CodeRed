@@ -1,4 +1,4 @@
-
+import {keyword1, keyword2, keyword3,} from "./fetch.js"
 require('dotenv').config();
 
 const API_KEY = process.env.EIA_API_KEY;
@@ -13,7 +13,7 @@ const axios = require('axios');
 
 var Petrol = {
   method: 'get',
-  url: `https://api.eia.gov/v2/petroleum/?api_key=${API_KEY}`,
+  url: `https://api.eia.gov/v2/${keyword1}/${keyword2}/${keyword3}/data/?api_key=${API_KEY}`,
   headers: { }
 };
 
