@@ -3,10 +3,18 @@
     .homeContainer {
         flex: 6;
 
-        .widgets, .chart {
+
+        .widgets{
             display: flex;
             padding: 20px;
             gap: 20px;
+            
+        }
+        .chart {
+            display: flex;
+            padding: 20px;
+            gap: 20px;
+
         }
 
         .charts {
