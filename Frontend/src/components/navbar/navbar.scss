@@ -34,6 +34,14 @@
             display: flex;
             align-items: center;
 
+            .dark {
+                background-color: #333;
+                color: #fff;
+              }
+            .light {
+                color: gray;
+            }
+
             .item {
                 display: flex;
                 align-items: center;
@@ -66,6 +74,7 @@
                     border-radius: 50%;
                 }
             }
+            
         }
     }
 }
