@@ -1,5 +1,6 @@
 import './widget.scss'
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
+// import oilIcon from '@mui/icons-material/';
 
 const Widget = ({type}) => {
 
@@ -89,7 +90,7 @@ const Widget = ({type}) => {
         <div className='widget'>
             <div className='slider'>
                 <div className='left'>
-                    <span className='title'>{data.title}</span>
+                    <span className='title'>{data.title} <KeyboardArrowUpIcon /></span>
                     <span className='counter'> ${data.amount}</span>
                 </div>
             </div>
